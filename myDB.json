@@ -1,0 +1,61 @@
+{
+    "user": [
+      {
+        "id": 0,
+        "username": "admin",
+        "email": "admin@roubphaep.com",
+        "telehpone": "0123456789",
+        "password": "admin12345"
+      }
+    ],
+    
+    "photo": [
+        {
+            "id":0,	
+            "title":"",	
+            "image":"",
+            "creator_id":0,
+            "category":0,
+            "created_at":"",
+            "updated_at":""
+        }
+      ],
+      
+    "photodetail": [
+        {
+          "id": 1,
+          "decsription": "hello",
+          "image_id":0,
+          "location":"",
+          "created_at":"",
+          "updated_at":""
+        }
+      ],
+      
+    "photosetting": [
+        {
+            "id":1,
+            "cemera_model":"",
+            "iso":0,
+            "shutter_speed":0.0,
+            "exposure":0.0,
+            "aperture":0.0,
+            "white_balance":0,
+            "len_focal_length":0,
+            "resolution":"",
+            "date":"",
+            "location":""
+        }
+      ],
+      
+    "category": [
+        {
+          "id": 1,
+          "icon":"",
+          "name": "hello",
+          "created_at":"",
+          "updated_at":""
+        }
+    ]
+
+}
